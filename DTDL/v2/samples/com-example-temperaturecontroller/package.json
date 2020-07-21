@@ -1,0 +1,12 @@
+{
+  "name": "@digital-twins/com-example-temperaturecontroller",
+  "version": "1.0.0",
+  "description": "",
+  "models" : ["TemperatureController.json"],
+  "dependencies": {
+    "@digital-twins/com-example-thermostat" : "^1.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
